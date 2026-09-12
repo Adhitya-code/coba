@@ -1,1 +1,2 @@
-first time 
+manusia biasa 
+hello manusia biasa 
